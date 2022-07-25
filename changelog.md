@@ -20,6 +20,7 @@
 * The right bearings of several characters that had very tall glyphs with wide tops, such as alef with a madda-above, kaf, gaf, and others, were adjusted so when they are paired with short or low characters on their right side, the kerning will not behave unexpectedly with a large, excess white space
 * Although the top diacritics were lowered to sit well on top of each glyph, they were placed on three overall grid lines, one for the letters that are very low in hight, another ofr the letters that are above the base but noy way up there, and the last grid line for the tallest glyphs. Therefore, the appearance of the diacritics, if used extensively, will not create a messy look, and still follow a clean and defined rule
 * The descender part of the character ARABIC DAMMA, i.e. $064F, has been shortened by a few pixels to avoid collision with following letters when the second letter has one or more dots on top
+* The small yeh on top of heh, also known as yeh-cheh, was corrected and does no longer look like hamzeh any more
 * Superscript glyphs for one, two, and three were made using the existing glyphs
 * The following fractions were made out of the available glyphs: 1/2, 1/4, and 3/4
 * The unicode characters to signal right-to-left, left-to-right, and several other control characters were added (they were mostly missing in the original design)
