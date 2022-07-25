@@ -1,13 +1,12 @@
 # EB-Ketab
+
 EB-Ketab is a modified and improved version of a popular font by Naser Ebrahimi called N-Ketab.
 
+## Copyright
 
-# Copyright
+Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
 
-Copyright © 2022, Eric Bright (https://sophy.ca/),<br />
-with Reserved Font Name EB-Ketab.<br />
-Copyright © 2001, Naser Ebrahimi,<br />
-with Reserved Font Name A-Ketab, and N-Ketab.
+Copyright © 2001, Naser Ebrahimi, with Reserved Font Name A-Ketab, and N-Ketab.
 
 The copyright holder of the original typeface is unknown.
 
@@ -21,28 +20,29 @@ The vendor’s URL for N-Ketab is still active, but the vendor(s) do not know an
 
 As such, I am going to assume that this font is in public domain unless otherwise is proven.
 
-# License
+## License
 
-Copyright © 2022, Eric Bright (https://sophy.ca/),<br />
-with Reserved Font Name EB-Ketab.<br />
-Copyright © 2001, Naser Ebrahimi,<br />
-with Reserved Font Name A-Ketab, and N-Ketab.
+Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
 
+Copyright © 2001, Naser Ebrahimi, with Reserved Font Name A-Ketab, and N-Ketab.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+<http://scripts.sil.org/OFL>
 
+-----------------------------------------------------------
 
------------------------------------------------------------<br />
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007<br />
------------------------------------------------------------<br />
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
-## PREAMBLE
+-----------------------------------------------------------
+
+### PREAMBLE
+
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
 
-## DEFINITIONS
+### DEFINITIONS
+
 “Font Software” refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
 
 “Reserved Font Name” refers to any names specified as such after the copyright statement(s).
@@ -53,7 +53,8 @@ The OFL allows the licensed fonts to be used, studied, modified and redistribute
 
 “Author” refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
 
-## PERMISSION & CONDITIONS
+### PERMISSION & CONDITIONS
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
 
 1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
@@ -66,8 +67,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
 
-## TERMINATION
+### TERMINATION
+
 This license becomes null and void if any of the above conditions are not met.
 
-## DISCLAIMER
+### DISCLAIMER
+
 The font software is provided “as is”, without warranty of any kind, express or implied, including but not limited to any warranties of merchantability, fitness for a particular purpose and noninfringement of copyright, patent, trademark, or other right. In no event shall the copyright holder be liable for any claim, damages or other liability, including any general, special, indirect, incidental, or consequential damages, whether in an action of contract, tort or otherwise, arising from, out of the use or inability to use the font software or from other dealings in the font software.
