@@ -50,7 +50,7 @@ The copyright holder of the original typeface is unknown.
 
 This font is based on N-Ketab by Naser Ebrahimi who holds the copyright to the original font (not the typeface).
 
-N-Ketab apparently was released in 2001 and was modified for the next several years. Several other copies of the same font were released by other people, none of which changed anything with the original font, but merely removed and replaced the original copyright notice, author, and designer’s names with their own names and copyright notices. Most, if not all, those latter copycats could not possibly hold any valid copyright claim over the design of this font.
+N-Ketab apparently was released in 2001 and was modified for the next several years. Several other copies of the same font were released by other people, none of which changed anything with the original font, but merely removed and replaced the original copyright notice, author, and designer’s names with their own names and copyright notices. Most, if not all, of those latter copycats could not possibly hold any valid copyright claim over the design of this font.
 
 Naser Ebrahimi seemed to have released another font in the same family called A-Ketab at around the same time, year 2001, and with a copyright year of 2009. It is not clear what the difference(s) between N-Ketab and A-Ketab might be since a close inspection of the fonts did not reveal any visible difference.
 
