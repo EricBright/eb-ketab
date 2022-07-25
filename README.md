@@ -4,9 +4,9 @@ EB-Ketab is a modified and improved version of a popular font by Naser Ebrahimi 
 
 # Copyright
 
-Copyright © 2022, Eric Bright (https://sophy.ca/),
-with Reserved Font Name EB-Ketab.
-Copyright © 2001, Naser Ebrahimi,
+Copyright © 2022, Eric Bright (https://sophy.ca/),<br />
+with Reserved Font Name EB-Ketab.<br />
+Copyright © 2001, Naser Ebrahimi,<br />
 with Reserved Font Name A-Ketab, and N-Ketab.
 
 The copyright holder of the original typeface is unknown.
@@ -23,9 +23,9 @@ As such, I am going to assume that this font is in public domain unless otherwis
 
 # License
 
-Copyright © 2022, Eric Bright (https://sophy.ca/),
-with Reserved Font Name EB-Ketab.
-Copyright © 2001, Naser Ebrahimi,
+Copyright © 2022, Eric Bright (https://sophy.ca/),<br />
+with Reserved Font Name EB-Ketab.<br />
+Copyright © 2001, Naser Ebrahimi,<br />
 with Reserved Font Name A-Ketab, and N-Ketab.
 
 
@@ -33,9 +33,9 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 http://scripts.sil.org/OFL
 
 
------------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
+-----------------------------------------------------------<br />
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007<br />
+-----------------------------------------------------------<br />
 
 ## PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
