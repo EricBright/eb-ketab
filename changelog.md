@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.000 - Initial release
+## v1.0.0 - Initial release
 
 * The whole font was rebuilt using a known standardized font with all ligatures, kerning, and positions already implemented
 * All characters and glyphs that are not used in Persian texts were removed
