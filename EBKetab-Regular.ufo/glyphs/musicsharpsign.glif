@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="musicsharpsign" format="2">
+  <advance width="1139"/>
+  <unicode hex="266F"/>
+  <outline>
+    <contour>
+      <point x="1035" y="416" type="line"/>
+      <point x="1035" y="584" type="line"/>
+      <point x="835" y="495" type="line"/>
+      <point x="835" y="989" type="line"/>
+      <point x="1035" y="1078" type="line"/>
+      <point x="1035" y="1246" type="line"/>
+      <point x="835" y="1157" type="line"/>
+      <point x="835" y="1466" type="line"/>
+      <point x="749" y="1466" type="line"/>
+      <point x="749" y="1118" type="line"/>
+      <point x="391" y="958" type="line"/>
+      <point x="391" y="1246" type="line"/>
+      <point x="305" y="1246" type="line"/>
+      <point x="305" y="919" type="line"/>
+      <point x="105" y="830" type="line"/>
+      <point x="105" y="662" type="line"/>
+      <point x="305" y="751" type="line"/>
+      <point x="305" y="257" type="line"/>
+      <point x="105" y="168" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="305" y="89" type="line"/>
+      <point x="305" y="-210" type="line"/>
+      <point x="391" y="-210" type="line"/>
+      <point x="391" y="128" type="line"/>
+      <point x="749" y="288" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="835" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="456" type="line"/>
+      <point x="391" y="296" type="line"/>
+      <point x="391" y="790" type="line"/>
+      <point x="749" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

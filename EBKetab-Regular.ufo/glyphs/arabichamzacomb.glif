@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabichamzacomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0654"/>
+  <anchor x="0" y="1085" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="27" y="1348" type="curve"/>
+      <point x="14" y="1346" type="line"/>
+      <point x="-28" y="1328"/>
+      <point x="-49" y="1314"/>
+      <point x="-49" y="1303" type="curve"/>
+      <point x="-78" y="1286"/>
+      <point x="-93" y="1265"/>
+      <point x="-93" y="1238" type="curve"/>
+      <point x="-90" y="1225" type="line"/>
+      <point x="-75" y="1203"/>
+      <point x="-67" y="1185"/>
+      <point x="-67" y="1171" type="curve"/>
+      <point x="-70" y="1161" type="line"/>
+      <point x="-89" y="1146"/>
+      <point x="-98" y="1137"/>
+      <point x="-98" y="1135" type="curve"/>
+      <point x="-98" y="1107" type="line"/>
+      <point x="-96" y="1092"/>
+      <point x="-90" y="1085"/>
+      <point x="-79" y="1085" type="curve"/>
+      <point x="-75" y="1085" type="line"/>
+      <point x="-49" y="1102" type="line"/>
+      <point x="-33" y="1126"/>
+      <point x="-21" y="1139"/>
+      <point x="-13" y="1143" type="curve"/>
+      <point x="16" y="1145"/>
+      <point x="30" y="1148"/>
+      <point x="30" y="1152" type="curve"/>
+      <point x="47" y="1163" type="line"/>
+      <point x="83" y="1174"/>
+      <point x="102" y="1189"/>
+      <point x="102" y="1208" type="curve"/>
+      <point x="102" y="1224"/>
+      <point x="88" y="1234"/>
+      <point x="61" y="1238" type="curve"/>
+      <point x="30" y="1217" type="line"/>
+      <point x="-2" y="1224"/>
+      <point x="-18" y="1237"/>
+      <point x="-18" y="1256" type="curve"/>
+      <point x="-17" y="1264"/>
+      <point x="-3" y="1270"/>
+      <point x="25" y="1273" type="curve"/>
+      <point x="53" y="1262" type="line"/>
+      <point x="71" y="1263"/>
+      <point x="79" y="1277"/>
+      <point x="79" y="1303" type="curve"/>
+      <point x="58" y="1333"/>
+      <point x="41" y="1348"/>
+    </contour>
+  </outline>
+</glyph>

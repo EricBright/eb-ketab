@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivepointedstar-arab" format="2">
+  <advance width="1029"/>
+  <unicode hex="066D"/>
+  <outline>
+    <contour>
+      <point x="638" y="671" type="line"/>
+      <point x="872" y="897" type="line"/>
+      <point x="791" y="980" type="line"/>
+      <point x="567" y="748" type="line"/>
+      <point x="573" y="1082" type="line"/>
+      <point x="458" y="1082" type="line"/>
+      <point x="462" y="752" type="line"/>
+      <point x="237" y="980" type="line"/>
+      <point x="156" y="897" type="line"/>
+      <point x="386" y="671" type="line"/>
+      <point x="58" y="674" type="line"/>
+      <point x="58" y="561" type="line"/>
+      <point x="388" y="565" type="line"/>
+      <point x="135" y="324" type="line"/>
+      <point x="217" y="243" type="line"/>
+      <point x="462" y="496" type="line"/>
+      <point x="458" y="155" type="line"/>
+      <point x="573" y="155" type="line"/>
+      <point x="567" y="496" type="line"/>
+      <point x="812" y="243" type="line"/>
+      <point x="893" y="324" type="line"/>
+      <point x="646" y="563" type="line"/>
+      <point x="972" y="561" type="line"/>
+      <point x="972" y="674" type="line"/>
+    </contour>
+  </outline>
+</glyph>

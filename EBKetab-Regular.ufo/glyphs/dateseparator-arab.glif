@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dateseparator-arab" format="2">
+  <advance width="839"/>
+  <unicode hex="060D"/>
+  <outline>
+    <contour>
+      <point x="619" y="1477" type="line"/>
+      <point x="56" y="-170" type="line"/>
+      <point x="196" y="-219" type="line"/>
+      <point x="759" y="1428" type="line"/>
+    </contour>
+  </outline>
+</glyph>

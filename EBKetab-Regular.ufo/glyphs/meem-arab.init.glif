@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meem-arab.init" format="2">
+  <advance width="483"/>
+  <unicode hex="FEE3"/>
+  <anchor x="301" y="622" name="top-arab"/>
+  <anchor x="262" y="-56" name="bottom-arab"/>
+  <outline>
+    <contour>
+      <point x="319" y="461" type="curve"/>
+      <point x="282" y="461"/>
+      <point x="255" y="445"/>
+      <point x="236" y="412" type="curve"/>
+      <point x="192" y="317"/>
+      <point x="158" y="253"/>
+      <point x="135" y="219" type="curve"/>
+      <point x="96" y="204"/>
+      <point x="70" y="189"/>
+      <point x="55" y="172" type="curve"/>
+      <point x="32" y="171"/>
+      <point x="14" y="156"/>
+      <point x="0" y="127" type="curve"/>
+      <point x="0" y="88" type="line"/>
+      <point x="1" y="57"/>
+      <point x="4" y="41"/>
+      <point x="8" y="41" type="curve"/>
+      <point x="8" y="24"/>
+      <point x="32" y="11"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="101" y="0"/>
+      <point x="129" y="17"/>
+      <point x="164" y="51" type="curve"/>
+      <point x="178" y="98"/>
+      <point x="192" y="121"/>
+      <point x="205" y="121" type="curve"/>
+      <point x="212" y="121"/>
+      <point x="225" y="115"/>
+      <point x="244" y="104" type="curve"/>
+      <point x="348" y="59" type="line"/>
+      <point x="371" y="62"/>
+      <point x="393" y="71"/>
+      <point x="416" y="88" type="curve"/>
+      <point x="453" y="123"/>
+      <point x="471" y="152"/>
+      <point x="471" y="176" type="curve"/>
+      <point x="471" y="248" type="line"/>
+      <point x="453" y="348" type="line"/>
+      <point x="433" y="375"/>
+      <point x="416" y="403"/>
+      <point x="403" y="432" type="curve"/>
+      <point x="403" y="451"/>
+      <point x="375" y="461"/>
+    </contour>
+  </outline>
+</glyph>
