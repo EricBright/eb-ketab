@@ -6,7 +6,7 @@ EB-Ketab is a modified and improved version of a popular font by Naser Ebrahimi 
 
 The original designer of the typeface in the print that was the inspiration for the font was not know to me. I am not sure if Naser Ebrahimi knew the type designer either. People in the publishing industry probably have a good idea where the typeface originated from and who carved the original typeface that was in use in Iran for many years and in many publications.
 
-## About the historic font
+## About N-Ketab, the historic font
 
 So far as I’ve learned, the first attempt to digitize the typeface was done in year 2001 (if you look at the copyright notice inside N-Ketab). Nothing else is known about the artist nor the time or place of creation for N-Ketab. Naser Ebrahimi made other similar-looking fonts at around the same time, all of which are freely available on various websites.
 
