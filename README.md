@@ -42,7 +42,7 @@ However, since the kerning settings of the base font was for a different kind of
 
 ## Copyright
 
-Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
+Copyright © 2022, The EB-Ketab Project Authors (<https://github.com/EricBright/eb-ketab>), with Reserved Font Name EB-Ketab.
 
 This font is based on N-Ketab by Naser Ebrahimi who holds the copyright to the original font (not the typeface).
 
@@ -56,7 +56,7 @@ Since I did not use the N-Ketab font and instead recreated the typeface based on
 
 ## License
 
-Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
+Copyright © 2022, The EB-Ketab Project Authors (<https://github.com/EricBright/eb-ketab>), with Reserved Font Name EB-Ketab.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is included in the repository as a file called LICENSE, and is also available with a FAQ at:
 <http://scripts.sil.org/OFL>
