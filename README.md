@@ -52,7 +52,7 @@ Naser Ebrahimi seemed to have released another font in the same family called A-
 
 The vendor’s URL for N-Ketab is still active, but the vendor(s) do not know anything about Naser Ebrahimi more than the fact that he digitized several old, print typefaces like Rooznameh, Ketab, and other fonts. The vendor explains a font called Rooznameh this way (the emphasis is mine): “Creative graphic designers and creators can use this beautiful font in their works. The font was designed *apparently* designed by a person named Naser Ebrahimi, based on old, print typefaces. Mr. Mojtaba Kimia gave this to us.” This clearly shows that the original author was not known to the vendor any more.
 
-As such, I am going to assume that this font is in public domain unless otherwise is proven.
+Since I did not use the N-Ketab font and instead recreated the typeface based on the N-Ketab’s design, the copyright notice for EB-Ketab is different from that of N-Ketab’s.
 
 ## License
 
