@@ -36,17 +36,13 @@ FontCreator allowed me to see the font in a different light. I could see new pos
 
 After spending several more weeks on the font inside FontCreator, the resulting font was way too different than the original font and needed a new name. I assumed ‘N-Ketab’ as a reserved font name, however I did not find any evidence to that effect. Since EB-Ketab was vastly different from N-Ketab, it won’t have been right to install it over N-Ketab. EB-Ketab is almost a different font, so I gave it a new reserved font name of EB-Ketab to differentiate it from N-Ketab and to avoid installing it over N-Ketab by accident. That is how EB-Ketab was born.
 
-To have a sound skeleton for EB-Ketab, I did not use N-Ketab font, since it lacked kerning and a whole lot of other things. I started from a typical, standard Persian font, moved the glyphs from N-Ketab to the new home, and then deleted the unused glyphs and characters in the destination. This way, the originally-defined kerning pairs were preserved. So, I had something to start from and to work on. After trimming down the resulted font and removing all the unnecessary characters, glyphs, or marks, I was left with a relatively clean and workable font.
+To have a sound skeleton for EB-Ketab, I did NOT use N-Ketab font, since it lacked kerning and a whole lot of other things. I started from a typical, standard Persian font, receated the glyphs based on N-Ketab in the new home, and then deleted the unused glyphs and characters in the destination. This way, the originally-defined kerning pairs were preserved. So, I had something to start from and to work on. After trimming down the resulted font and removing all the unnecessary characters, glyphs, or marks, I was left with a relatively clean and workable font.
 
 However, since the kerning settings of the base font was for a different kind of typeface, almost all the kerning settings, all the positioning of the anchors for marks, and the side bearings had to be readjusted to suite EB-Ketab. There were hundreds of kerning pairs that were missing that needed to be added either as individual pairs or classes of characters. But there were only two classes defined in the base font, which were not enough to cover all the possible cases. Therefore, I had to create several new character classes to be used in kerning of paired classes. The rest is history (see the changelog for version 1.0.0 – Initial release).
 
 ## Copyright
 
 Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
-
-Copyright © 2001, Naser Ebrahimi, with Reserved Font Name A-Ketab, and N-Ketab.
-
-The copyright holder of the original typeface is unknown.
 
 This font is based on N-Ketab by Naser Ebrahimi who holds the copyright to the original font (not the typeface).
 
@@ -61,8 +57,6 @@ As such, I am going to assume that this font is in public domain unless otherwis
 ## License
 
 Copyright © 2022, Eric Bright (<https://sophy.ca/>), with Reserved Font Name EB-Ketab.
-
-Copyright © 2001, Naser Ebrahimi, with Reserved Font Name A-Ketab, and N-Ketab.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is included in the repository as a file called LICENSE, and is also available with a FAQ at:
 <http://scripts.sil.org/OFL>
