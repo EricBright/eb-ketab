@@ -44,7 +44,9 @@ However, since the kerning settings of the base font was for a different kind of
 
 Copyright © 2022, The EB-Ketab Project Authors (<https://github.com/EricBright/eb-ketab>), with Reserved Font Name EB-Ketab.
 
-This font is based on N-Ketab by Naser Ebrahimi who holds the copyright to the original font (not the typeface).
+### A note on the N-Ketab’s copyright
+
+EB-Ketab is based on N-Ketab by Naser Ebrahimi who holds the copyright to the original font (not the typeface).
 
 N-Ketab apparently was released in 2001 and was modified for the next several years. Several other copies of the same font were released by other people, none of which changed anything with the original font, but merely removed and replaced the original copyright notice, author, and designer’s names with their own names and copyright notices. Most, if not all, of those latter copycats could not possibly hold any valid copyright claim over the design of this font.
 
